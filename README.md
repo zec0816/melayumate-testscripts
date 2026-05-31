@@ -73,6 +73,8 @@ pytest test_uc24_manage_lessons.py
 | Use Case | Description |
 |----------|-------------|
 | UC06 | Manage Daily Goal |
+| UC07 | Manage Notifications |
+| UC10 | Manage Character Settings |
 | UC24 | Manage Lessons |
 
 ---
