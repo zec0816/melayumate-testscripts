@@ -72,20 +72,34 @@ pytest test_uc02_register_account_mobile.py
 
 # Current Test Coverage
 
-| Use Case | Description             |
-| -------- | ----------------------- |
-| UC01     | Login                   |
-| UC02     | Register Account        |
-| UC03     | Reset Password          |
-| UC04     | Edit Profile            |
-| UC05     | Manage Drone & Location |
-| UC06     | Manage Drone Images     |
-| UC07     | Manage User             |
-| UC08     | Manage Dengue Data      |
-| UC09     | Manage Weather Data     |
-| UC10     | Generate Report         |
-| UC12     | Manage Settings         |
-| UC13     | Get Dengue Notification |
+| Use Case | Description |
+|----------|-------------|
+| UC01 | Register Account |
+| UC02 | Login |
+| UC03 | Reset Password |
+| UC04 | View Daily Progress |
+| UC05 | View Level Progress |
+| UC06 | Manage Daily Goal |
+| UC07 | Manage Notifications |
+| UC08 | Chat with Peers |
+| UC09 | Unlock Character |
+| UC10 | Manage Character Settings |
+| UC11 | Manage Battle Availability |
+| UC12 | Battle Opponent |
+| UC13 | Manage Deck |
+| UC14 | Manage Card |
+| UC15 | Configure Deck Settings |
+| UC16 | Practice Card |
+| UC17 | Manage Scenario |
+| UC18 | Manage Dialogue |
+| UC19 | Generate Audio (TTS) |
+| UC20 | Transcribe Speech (STT) |
+| UC21 | Practice Dialogue |
+| UC22 | Practice Lesson |
+| UC23 | Review Completed Lesson |
+| UC24 | Manage Lessons |
+| UC25 | Manage Questions |
+| UC26 | View Analytics |
 
 ---
 
