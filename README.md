@@ -62,10 +62,8 @@ pytest
 ## Run Individual Tests
 
 ```bash
-pytest test_uc01_login_web.py
-pytest test_uc01_login_mobile.py
-pytest test_uc02_register_account_web.py
-pytest test_uc02_register_account_mobile.py
+pytest test_uc06_manage_daily_goal.py
+pytest test_uc24_manage_lessons.py
 ```
 
 ---
@@ -74,32 +72,8 @@ pytest test_uc02_register_account_mobile.py
 
 | Use Case | Description |
 |----------|-------------|
-| UC01 | Register Account |
-| UC02 | Login |
-| UC03 | Reset Password |
-| UC04 | View Daily Progress |
-| UC05 | View Level Progress |
 | UC06 | Manage Daily Goal |
-| UC07 | Manage Notifications |
-| UC08 | Chat with Peers |
-| UC09 | Unlock Character |
-| UC10 | Manage Character Settings |
-| UC11 | Manage Battle Availability |
-| UC12 | Battle Opponent |
-| UC13 | Manage Deck |
-| UC14 | Manage Card |
-| UC15 | Configure Deck Settings |
-| UC16 | Practice Card |
-| UC17 | Manage Scenario |
-| UC18 | Manage Dialogue |
-| UC19 | Generate Audio (TTS) |
-| UC20 | Transcribe Speech (STT) |
-| UC21 | Practice Dialogue |
-| UC22 | Practice Lesson |
-| UC23 | Review Completed Lesson |
 | UC24 | Manage Lessons |
-| UC25 | Manage Questions |
-| UC26 | View Analytics |
 
 ---
 
