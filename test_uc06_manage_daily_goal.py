@@ -9,8 +9,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 BASE_URL = "http://localhost:5173/"
-USERNAME = "22056600"
-PASSWORD = "Tzecv22@%"
+USERNAME = "user123"
+PASSWORD = "Userpw123@"
 
 
 @pytest.fixture
