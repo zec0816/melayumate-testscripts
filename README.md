@@ -63,6 +63,8 @@ pytest
 
 ```bash
 pytest test_uc06_manage_daily_goal.py
+pytest test_uc07_manage_notifications.py
+pytest test_uc10_manage_character_settings.py
 pytest test_uc24_manage_lessons.py
 ```
 
