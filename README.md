@@ -79,7 +79,9 @@ pytest test_uc24_manage_lessons.py
 | UC10 | Manage Character Settings |
 | UC13 | Manage Deck |
 | UC15 | Configure Deck Settings |
+| UC18 | Manage Dialogue |
 | UC24 | Manage Lessons |
+| UC25 | Manage Questions |
 
 ---
 
