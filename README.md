@@ -77,6 +77,8 @@ pytest test_uc24_manage_lessons.py
 | UC06 | Manage Daily Goal |
 | UC07 | Manage Notifications |
 | UC10 | Manage Character Settings |
+| UC13 | Manage Deck |
+| UC15 | Configure Deck Settings |
 | UC24 | Manage Lessons |
 
 ---
