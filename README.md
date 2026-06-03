@@ -65,7 +65,13 @@ pytest
 pytest test_uc06_manage_daily_goal.py
 pytest test_uc07_manage_notifications.py
 pytest test_uc10_manage_character_settings.py
+pytest test_uc13_manage_deck.py
+pytest test_uc14_manage_card.py
+pytest test_uc15_configure_deck_settings.py
+pytest test_uc17_manage_scenario.py
+pytest test_uc18_manage_dialogue.py
 pytest test_uc24_manage_lessons.py
+pytest test_uc25_manage_questions.py
 ```
 
 ---
@@ -78,7 +84,9 @@ pytest test_uc24_manage_lessons.py
 | UC07 | Manage Notifications |
 | UC10 | Manage Character Settings |
 | UC13 | Manage Deck |
+| UC14 | Manage Card |
 | UC15 | Configure Deck Settings |
+| UC17 | Manage Scenario |
 | UC18 | Manage Dialogue |
 | UC24 | Manage Lessons |
 | UC25 | Manage Questions |
